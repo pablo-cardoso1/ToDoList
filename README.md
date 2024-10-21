@@ -72,5 +72,8 @@ Um simples gerenciador de tarefas desenvolvido em C#. Este projeto permite que o
 # Licença
 - Este projeto está licenciado sob a MIT License - consulte o arquivo LICENSE para mais detalhes.
 
+# Link para este repositório
+- https://github.com/pablo-cardoso1/ToDoList
+
 # Contato
 - Para dúvidas ou sugestões, entre em contato com pabloluiz30@gmail.com.
