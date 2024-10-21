@@ -44,18 +44,29 @@ Um simples gerenciador de tarefas desenvolvido em C#. Este projeto permite que o
 Comandos disponíveis:
 
 add [descrição]: Adiciona uma nova tarefa.
+
 update [id] [nova descrição]: Atualiza a descrição da tarefa com o ID especificado.
+
 delete [id]: Exclui a tarefa com o ID especificado.
+
 mark-in-progress [id]: Marca a tarefa como "em andamento".
+
 mark-done [id]: Marca a tarefa como "concluída".
+
 list [status]: Lista todas as tarefas ou filtra por status (todo, in-progress, done).
+
 Contribuição
+
 Sinta-se à vontade para contribuir com melhorias e correções! Para isso, siga os passos:
 
 Fork este repositório.
+
 Crie uma nova branch (git checkout -b feature/nome-da-sua-feature).
+
 Faça suas alterações e commit (git commit -m 'Adiciona nova feature').
+
 Faça o push para a branch (git push origin feature/nome-da-sua-feature).
+
 Abra um Pull Request.
 
 Licença
