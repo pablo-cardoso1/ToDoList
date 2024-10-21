@@ -41,36 +41,36 @@ Um simples gerenciador de tarefas desenvolvido em C#. Este projeto permite que o
    ```bash
    dotnet run [comando] [argumentos]
 
-Comandos disponíveis:
+# Comandos disponíveis:
 
-add [descrição]: Adiciona uma nova tarefa.
+- **add [descrição]: Adiciona uma nova tarefa.**
 
-update [id] [nova descrição]: Atualiza a descrição da tarefa com o ID especificado.
+- **update [id] [nova descrição]: Atualiza a descrição da tarefa com o ID especificado.**
 
-delete [id]: Exclui a tarefa com o ID especificado.
+- **delete [id]: Exclui a tarefa com o ID especificado.**
 
-mark-in-progress [id]: Marca a tarefa como "em andamento".
+- **mark-in-progress [id]: Marca a tarefa como "em andamento".**
 
-mark-done [id]: Marca a tarefa como "concluída".
+- **mark-done [id]: Marca a tarefa como "concluída".**
 
-list [status]: Lista todas as tarefas ou filtra por status (todo, in-progress, done).
+- **list [status]: Lista todas as tarefas ou filtra por status (todo, in-progress, done).**
 
-Contribuição
+# Contribuição
 
-Sinta-se à vontade para contribuir com melhorias e correções! Para isso, siga os passos:
+- Sinta-se à vontade para contribuir com melhorias e correções! Para isso, siga os passos:
 
-Fork este repositório.
+- Fork este repositório.
 
-Crie uma nova branch (git checkout -b feature/nome-da-sua-feature).
+- Crie uma nova branch (git checkout -b feature/nome-da-sua-feature).
 
-Faça suas alterações e commit (git commit -m 'Adiciona nova feature').
+- Faça suas alterações e commit (git commit -m 'Adiciona nova feature').
 
-Faça o push para a branch (git push origin feature/nome-da-sua-feature).
+- Faça o push para a branch (git push origin feature/nome-da-sua-feature).
 
-Abra um Pull Request.
+- Abra um Pull Request.
 
-Licença
-Este projeto está licenciado sob a MIT License - consulte o arquivo LICENSE para mais detalhes.
+# Licença
+- Este projeto está licenciado sob a MIT License - consulte o arquivo LICENSE para mais detalhes.
 
-Contato
-Para dúvidas ou sugestões, entre em contato com pabloluiz30@gmail.com.
+# Contato
+- Para dúvidas ou sugestões, entre em contato com pabloluiz30@gmail.com.
